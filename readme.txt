@@ -1,2 +1,2 @@
 git is a constribute  version control system .
-git is a free software.
+git is a free contribute software on GPL .
